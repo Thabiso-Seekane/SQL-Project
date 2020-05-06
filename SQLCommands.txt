@@ -1,0 +1,24 @@
+--checking if the database is there and deletes it.
+DROP DATABASE DatabaseName();
+
+--creating the database is.
+CREATE DATABASE DatabaseName();
+
+--creating a table within the database.
+create table TableName();
+
+--to insert values into the tables
+INSERT INTO TableName() VALUES();
+
+--selecting and viewing values inside the table is.
+SELECT * FROM tableName;
+
+-- selecting a specific field.
+SELECT * FRIM Tablename WHERE id;
+
+--to update the table to we use.
+UPDATE TableName SET fields;
+
+--to remove a field we use.
+DELETE FROM tableName WHERE id;
+

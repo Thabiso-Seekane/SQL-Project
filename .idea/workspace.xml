@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="205792d0-8d93-41c5-845a-71f7f5849f2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gradle/6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.gradle/6.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.gradle/6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.gradle/6.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.gradle/6.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CalculatorEngine/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/build/classes/java/main/Collection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/main/java/Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collections/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/src/main/java/Blank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/src/main/java/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dice/src/main/java/eliDie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/Thabiso.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/build/classes/java/main/Visitor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/build/resources/main/log4j2-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/logs/errors.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/src/main/java/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/src/main/resources/log4j2-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIO/visitor_{Thabiso_Seekane}.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameOfLife/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameOfLife/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameOfLife/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameOfLife/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameOfLife/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameOfLife/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameOfLife/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameOfLife/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameOfLife/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameOfLife/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameOfLife/src/main/java/GameOfLife.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GameOfLife/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.gradle/6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/build/classes/java/main/GenericsType/Generics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/main/java/GenericsType/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Generics/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Collections utility class/Programming (1)/Collections_utility_class-Programming__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Collections utility class/Programming (1)/Collections_utility_class-Programming__1__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Collections utility class/Programming (1)/Collections_utility_class-Programming__1__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Collections utility class/Programming/Collections_utility_class-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Collections utility class/Programming/Collections_utility_class-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Collections utility class/Programming/Collections_utility_class-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Collections utility class/Quiz/Collections_utility_class-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Collections utility class/Quiz/Collections_utility_class-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Collections utility class/Quiz/Collections_utility_class-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Collections utility class/Theory/Collections_utility_class-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Collections utility class/Theory/Collections_utility_class-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Collections utility class/Theory/Collections_utility_class-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Iterator/Quiz/Iterator-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Iterator/Quiz/Iterator-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Iterator/Quiz/Iterator-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Iterator/Theory/Iterator-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Iterator/Theory/Iterator-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Iterator/Theory/Iterator-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Java._Collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Programming (1)/List-Programming__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Programming (1)/List-Programming__1__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Programming (1)/List-Programming__1__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Programming (2)/List-Programming__2_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Programming (2)/List-Programming__2__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Programming (2)/List-Programming__2__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Programming (3)/List-Programming__3_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Programming (3)/List-Programming__3__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Programming (3)/List-Programming__3__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Programming (4)/List-Programming__4_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Programming (4)/List-Programming__4__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Programming (4)/List-Programming__4__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Programming (5)/List-Programming__5_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Programming (5)/List-Programming__5__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Programming (5)/List-Programming__5__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Programming/List-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Programming/List-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Programming/List-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Quiz (1)/List-Quiz__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Quiz (1)/List-Quiz__1__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Quiz (1)/List-Quiz__1__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Quiz/List-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Quiz/List-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Quiz/List-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Theory (1)/List-Theory__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Theory (1)/List-Theory__1__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Theory (1)/List-Theory__1__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Theory/List-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Theory/List-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/List/Theory/List-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Map/Programming (1)/Map-Programming__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Map/Programming (1)/Map-Programming__1__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Map/Programming (1)/Map-Programming__1__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Map/Programming (2)/Map-Programming__2_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Map/Programming (2)/Map-Programming__2__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Map/Programming (2)/Map-Programming__2__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Map/Programming (3)/Map-Programming__3_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Map/Programming (3)/Map-Programming__3__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Map/Programming (3)/Map-Programming__3__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Map/Programming (4)/Map-Programming__4_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Map/Programming (4)/Map-Programming__4__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Map/Programming (4)/Map-Programming__4__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Map/Programming (5)/Map-Programming__5_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Map/Programming (5)/Map-Programming__5__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Map/Programming (5)/Map-Programming__5__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Map/Programming/Map-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Map/Programming/Map-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Map/Programming/Map-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Map/Theory/Map-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Map/Theory/Map-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Map/Theory/Map-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Programming (1)/Queue_and_Stack-Programming__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Programming (1)/Queue_and_Stack-Programming__1__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Programming (1)/Queue_and_Stack-Programming__1__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Programming (2)/Queue_and_Stack-Programming__2_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Programming (2)/Queue_and_Stack-Programming__2__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Programming (2)/Queue_and_Stack-Programming__2__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Programming (3)/Queue_and_Stack-Programming__3_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Programming (3)/Queue_and_Stack-Programming__3__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Programming (3)/Queue_and_Stack-Programming__3__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Programming (4)/Queue_and_Stack-Programming__4_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Programming (4)/Queue_and_Stack-Programming__4__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Programming (4)/Queue_and_Stack-Programming__4__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Programming (5)/Queue_and_Stack-Programming__5_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Programming (5)/Queue_and_Stack-Programming__5__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Programming (5)/Queue_and_Stack-Programming__5__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Programming (6)/Queue_and_Stack-Programming__6_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Programming (6)/Queue_and_Stack-Programming__6__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Programming (6)/Queue_and_Stack-Programming__6__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Programming/Queue_and_Stack-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Programming/Queue_and_Stack-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Programming/Queue_and_Stack-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Quiz/Queue_and_Stack-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Quiz/Queue_and_Stack-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Quiz/Queue_and_Stack-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Theory/Queue_and_Stack-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Theory/Queue_and_Stack-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Queue and Stack/Theory/Queue_and_Stack-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Set/Programming (1)/Set-Programming__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Set/Programming (1)/Set-Programming__1__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Set/Programming (1)/Set-Programming__1__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Set/Programming (2)/Set-Programming__2_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Set/Programming (2)/Set-Programming__2__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Set/Programming (2)/Set-Programming__2__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Set/Programming/Set-Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Set/Programming/Set-Programming_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Set/Programming/Set-Programming_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Set/Quiz (1)/Set-Quiz__1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Set/Quiz (1)/Set-Quiz__1__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Set/Quiz (1)/Set-Quiz__1__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Set/Quiz (2)/Set-Quiz__2_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Set/Quiz (2)/Set-Quiz__2__main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Set/Quiz (2)/Set-Quiz__2__test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Set/Quiz/Set-Quiz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Set/Quiz/Set-Quiz_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Set/Quiz/Set-Quiz_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Set/Theory/Set-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Set/Theory/Set-Theory_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/Set/Theory/Set-Theory_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Collections utility class/Programming (1)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Collections utility class/Programming (1)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Collections utility class/Programming/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Collections utility class/Programming/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Collections utility class/Quiz/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Collections utility class/Quiz/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Collections utility class/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Collections utility class/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Collections utility class/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Collections utility class/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Iterator/Quiz/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Iterator/Quiz/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Iterator/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Iterator/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Iterator/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Iterator/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Programming (1)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Programming (1)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Programming (2)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Programming (2)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Programming (3)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Programming (3)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Programming (4)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Programming (4)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Programming (5)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Programming (5)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Programming/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Programming/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Quiz (1)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Quiz (1)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Quiz/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Quiz/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Quiz/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Theory (1)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Theory (1)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Theory/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/List/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Map/Programming (1)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Map/Programming (1)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Map/Programming (2)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Map/Programming (2)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Map/Programming (3)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Map/Programming (3)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Map/Programming (4)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Map/Programming (4)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Map/Programming (5)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Map/Programming (5)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Map/Programming/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Map/Programming/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Map/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Map/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Map/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Map/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Queue and Stack/Programming (1)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Queue and Stack/Programming (1)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Queue and Stack/Programming (2)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Queue and Stack/Programming (2)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Queue and Stack/Programming (3)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Queue and Stack/Programming (3)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Queue and Stack/Programming (4)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Queue and Stack/Programming (4)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Queue and Stack/Programming (5)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Queue and Stack/Programming (5)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Queue and Stack/Programming (6)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Queue and Stack/Programming (6)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Queue and Stack/Programming/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Queue and Stack/Programming/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Queue and Stack/Quiz/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Queue and Stack/Quiz/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Queue and Stack/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Queue and Stack/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Queue and Stack/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Queue and Stack/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Set/Programming (1)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Set/Programming (1)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Set/Programming (2)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Set/Programming (2)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Set/Programming/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Set/Programming/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Set/Quiz (1)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Set/Quiz (1)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Set/Quiz (2)/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Set/Quiz (2)/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Set/Quiz/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Set/Quiz/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Set/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Set/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Set/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/Set/lesson-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java. Collections/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/Builders how it works/Builders-Builders_how_it_works_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/Builders implementation/Builders-Builders_implementation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/Builders implementation/Builders-Builders_implementation_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/Builders implementation/Builders-Builders_implementation_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/Function literals with receiver/Builders-Function_literals_with_receiver_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/Html builders/Builders-Html_builders.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/Html builders/Builders-Html_builders_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/Html builders/Builders-Html_builders_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/String and map builders/Builders-String_and_map_builders_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/The function apply/Builders-The_function_apply.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/The function apply/Builders-The_function_apply_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Builders/The function apply/Builders-The_function_apply_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Classes/Data classes/Classes-Data_classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Classes/Data classes/Classes-Data_classes_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Classes/Data classes/Classes-Data_classes_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Classes/Extension functions/Classes-Extension_functions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Classes/Extension functions/Classes-Extension_functions_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Classes/Extension functions/Classes-Extension_functions_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Classes/Rename on import/Classes-Rename_on_import.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Classes/Rename on import/Classes-Rename_on_import_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Classes/Rename on import/Classes-Rename_on_import_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Classes/Sealed classes/Classes-Sealed_classes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Classes/Sealed classes/Classes-Sealed_classes_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Classes/Sealed classes/Classes-Sealed_classes_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Classes/Smart casts/Classes-Smart_casts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Classes/Smart casts/Classes-Smart_casts_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Classes/Smart casts/Classes-Smart_casts_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/All Any and other predicates/Collections-All_Any_and_other_predicates_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Associate/Collections-Associate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Associate/Collections-Associate_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Associate/Collections-Associate_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Compound tasks/Collections-Compound_tasks_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Filter map/Collections-Filter_map.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Filter map/Collections-Filter_map_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Filter map/Collections-Filter_map_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/FlatMap/Collections-FlatMap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/FlatMap/Collections-FlatMap_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/FlatMap/Collections-FlatMap_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Fold/Collections-Fold.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Fold/Collections-Fold_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Fold/Collections-Fold_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Getting used to new style/Collections-Getting_used_to_new_style.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Getting used to new style/Collections-Getting_used_to_new_style_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Getting used to new style/Collections-Getting_used_to_new_style_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/GroupBy/Collections-GroupBy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/GroupBy/Collections-GroupBy_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/GroupBy/Collections-GroupBy_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Introduction/Collections-Introduction.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Introduction/Collections-Introduction_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Introduction/Collections-Introduction_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Max min/Collections-Max_min.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Max min/Collections-Max_min_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Max min/Collections-Max_min_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Partition/Collections-Partition.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Partition/Collections-Partition_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Partition/Collections-Partition_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Sequences/Collections-Sequences.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Sequences/Collections-Sequences_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Sequences/Collections-Sequences_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Sort/Collections-Sort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Sort/Collections-Sort_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Sort/Collections-Sort_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Sum/Collections-Sum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Sum/Collections-Sum_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Collections/Sum/Collections-Sum_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Comparison/Conventions-Comparison.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Comparison/Conventions-Comparison_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Comparison/Conventions-Comparison_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/For loop/Conventions-For_loop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/For loop/Conventions-For_loop_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/For loop/Conventions-For_loop_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Invoke/Conventions-Invoke.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Invoke/Conventions-Invoke_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Invoke/Conventions-Invoke_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Operators overloading/Conventions-Operators_overloading_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Ranges/Conventions-Ranges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Ranges/Conventions-Ranges_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Conventions/Ranges/Conventions-Ranges_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Generics/Generic functions/Generics-Generic_functions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Generics/Generic functions/Generics-Generic_functions_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Generics/Generic functions/Generics-Generic_functions_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Default arguments/Introduction-Default_arguments_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Hello, world!/Introduction-Hello,_world!_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Lambdas/Introduction-Lambdas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Lambdas/Introduction-Lambdas_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Lambdas/Introduction-Lambdas_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Named arguments/Introduction-Named_arguments_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Nothing type/Introduction-Nothing_type.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Nothing type/Introduction-Nothing_type_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Nothing type/Introduction-Nothing_type_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Nullable types/Introduction-Nullable_types_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/String templates/Introduction-String_templates.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/String templates/Introduction-String_templates_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/String templates/Introduction-String_templates_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Triple-quoted strings/Introduction-Triple-quoted_strings.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Triple-quoted strings/Introduction-Triple-quoted_strings_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Introduction/Triple-quoted strings/Introduction-Triple-quoted_strings_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Kotlin_Koans.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Delegates examples/Properties-Delegates_examples_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Delegates how it works/Properties-Delegates_how_it_works_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Lazy property/Properties-Lazy_property.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Lazy property/Properties-Lazy_property_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Lazy property/Properties-Lazy_property_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Properties/Properties-Properties.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Properties/Properties-Properties_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/Properties/Properties/Properties-Properties_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kotlin Koans/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordChecker/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordChecker/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordChecker/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordChecker/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordChecker/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordChecker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordChecker/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordChecker/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordChecker/build/classes/java/main/PasswordCheck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordChecker/build/resources/main/log4j2-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordChecker/logs/errors.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordChecker/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordChecker/src/main/java/PasswordCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordChecker/src/main/resources/log4j2-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PasswordChecker/src/test/java/PasswordTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/src/main/java/Flights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Practise/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repassword/build/reports/tests/test/classes/passwordCheckerTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repassword/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repassword/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repassword/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repassword/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repassword/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repassword/build/resources/main/log4j2-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repassword/build/test-results/test/TEST-passwordCheckerTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repassword/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repassword/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repassword/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repassword/src/main/resources/log4j2-test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Repassword/src/test/java/passwordCheckerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.SQLCommands.txt.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQLCommands.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__com_cedarsoftware_json_io_4_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__com_github_hyperskill_hs_test_v7_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__com_github_stefanbirkner_system_rules_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__org_assertj_assertj_core_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__org_assertj_assertj_swing_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (1)/The result of a Tic-Tac-Toe game/Problems__1_-The_result_of_a_Tic-Tac-Toe_game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (1)/The result of a Tic-Tac-Toe game/Problems__1_-The_result_of_a_Tic-Tac-Toe_game_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (1)/The result of a Tic-Tac-Toe game/Problems__1_-The_result_of_a_Tic-Tac-Toe_game_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (10)/Guest list of a hotel/Problems__10_-Guest_list_of_a_hotel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (10)/Guest list of a hotel/Problems__10_-Guest_list_of_a_hotel_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (10)/Guest list of a hotel/Problems__10_-Guest_list_of_a_hotel_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (11)/Hiring a chef/Problems__11_-Hiring_a_chef.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (11)/Hiring a chef/Problems__11_-Hiring_a_chef_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (11)/Hiring a chef/Problems__11_-Hiring_a_chef_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (2)/First, second, third/Problems__2_-First,_second,_third.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (2)/First, second, third/Problems__2_-First,_second,_third_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (2)/First, second, third/Problems__2_-First,_second,_third_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (3)/Printing a magic letter/Problems__3_-Printing_a_magic_letter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (3)/Printing a magic letter/Problems__3_-Printing_a_magic_letter_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (3)/Printing a magic letter/Problems__3_-Printing_a_magic_letter_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (4)/Digits from 0 to 9 in a single line/Problems__4_-Digits_from_0_to_9_in_a_single_line.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (4)/Digits from 0 to 9 in a single line/Problems__4_-Digits_from_0_to_9_in_a_single_line_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (4)/Digits from 0 to 9 in a single line/Problems__4_-Digits_from_0_to_9_in_a_single_line_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (5)/Printing each word in a new line/Problems__5_-Printing_each_word_in_a_new_line.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (5)/Printing each word in a new line/Problems__5_-Printing_each_word_in_a_new_line_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (5)/Printing each word in a new line/Problems__5_-Printing_each_word_in_a_new_line_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (6)/Printing each word in a new line/Problems__6_-Printing_each_word_in_a_new_line.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (6)/Printing each word in a new line/Problems__6_-Printing_each_word_in_a_new_line_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (6)/Printing each word in a new line/Problems__6_-Printing_each_word_in_a_new_line_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (7)/Printing each word in a new line/Problems__7_-Printing_each_word_in_a_new_line.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (7)/Printing each word in a new line/Problems__7_-Printing_each_word_in_a_new_line_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (7)/Printing each word in a new line/Problems__7_-Printing_each_word_in_a_new_line_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (8)/Printing each word in a new line/Problems__8_-Printing_each_word_in_a_new_line.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (8)/Printing each word in a new line/Problems__8_-Printing_each_word_in_a_new_line_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (8)/Printing each word in a new line/Problems__8_-Printing_each_word_in_a_new_line_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (9)/Printing strings in the same order/Problems__9_-Printing_strings_in_the_same_order.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (9)/Printing strings in the same order/Problems__9_-Printing_strings_in_the_same_order_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems (9)/Printing strings in the same order/Problems__9_-Printing_strings_in_the_same_order_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems/Hiring a chef/Problems-Hiring_a_chef.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems/Hiring a chef/Problems-Hiring_a_chef_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems/Hiring a chef/Problems-Hiring_a_chef_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems/The result of a Tic-Tac-Toe game/Problems-The_result_of_a_Tic-Tac-Toe_game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems/The result of a Tic-Tac-Toe game/Problems-The_result_of_a_Tic-Tac-Toe_game_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Problems/The result of a Tic-Tac-Toe game/Problems-The_result_of_a_Tic-Tac-Toe_game_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple_Chatty_Bot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (1)/The result of a Tic-Tac-Toe game/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (1)/The result of a Tic-Tac-Toe game/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (1)/The result of a Tic-Tac-Toe game/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (1)/The result of a Tic-Tac-Toe game/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (10)/Guest list of a hotel/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (10)/Guest list of a hotel/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (10)/Guest list of a hotel/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (10)/Guest list of a hotel/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (10)/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (11)/Hiring a chef/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (11)/Hiring a chef/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (11)/Hiring a chef/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (11)/Hiring a chef/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (11)/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (2)/First, second, third/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (2)/First, second, third/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (2)/First, second, third/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (2)/First, second, third/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (3)/Printing a magic letter/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (3)/Printing a magic letter/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (4)/Digits from 0 to 9 in a single line/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (4)/Digits from 0 to 9 in a single line/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (4)/Digits from 0 to 9 in a single line/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (4)/Digits from 0 to 9 in a single line/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (5)/Printing each word in a new line/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (5)/Printing each word in a new line/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (5)/Printing each word in a new line/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (5)/Printing each word in a new line/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (5)/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (6)/Printing each word in a new line/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (6)/Printing each word in a new line/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (6)/Printing each word in a new line/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (6)/Printing each word in a new line/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (6)/Printing each word in a new line/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (6)/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (7)/Printing each word in a new line/out/production/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (7)/Printing each word in a new line/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (7)/Printing each word in a new line/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (7)/Printing each word in a new line/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (7)/Printing each word in a new line/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (7)/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (8)/Printing each word in a new line/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (8)/Printing each word in a new line/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (8)/Printing each word in a new line/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (8)/Printing each word in a new line/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (8)/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (9)/Printing strings in the same order/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (9)/Printing strings in the same order/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (9)/Printing strings in the same order/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (9)/Printing strings in the same order/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems (9)/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Hiring a chef/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Hiring a chef/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Hiring a chef/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/Hiring a chef/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/The result of a Tic-Tac-Toe game/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/The result of a Tic-Tac-Toe game/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Problems/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/task/build/classes/java/main/bot/SimpleBot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/task/build/classes/java/test/PersonalAssistantTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/task/build/reports/tests/test/classes/PersonalAssistantTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/task/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/task/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/task/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/task/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/task/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/task/build/test-results/test/TEST-PersonalAssistantTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/task/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/task/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/task/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/task/build/tmp/test/jar_extract_18362964195953264749_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/task/build/tmp/test/jar_extract_6221487257995933995_tmp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/task/out/production/classes/bot/SimpleBot.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/task/src/bot/SimpleBot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.gradle/5.3.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.gradle/5.3.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.gradle/5.3.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/libraries/Gradle__com_cedarsoftware_json_io_4_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/libraries/Gradle__com_github_hyperskill_hs_test_v6_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/libraries/Gradle__com_github_stefanbirkner_system_rules_1_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/libraries/Gradle__junit_junit_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/libraries/Gradle__org_assertj_assertj_core_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/libraries/Gradle__org_assertj_assertj_swing_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot-task_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/modules/Simple_Chatty_Bot1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/modules/util/util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/modules/util/util_main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/modules/util/util_test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/Simple Chatty Bot/Hello! What’s your name?/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/Simple Chatty Bot/Hello! What’s your name?/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/Simple Chatty Bot/Hello! What’s your name?/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/Simple Chatty Bot/How old are you?/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/Simple Chatty Bot/How old are you?/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/Simple Chatty Bot/How old are you?/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/Simple Chatty Bot/Let’s count!/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/Simple Chatty Bot/Let’s count!/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/Simple Chatty Bot/Let’s count!/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/Simple Chatty Bot/The student and the teacher/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/Simple Chatty Bot/The student and the teacher/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/Simple Chatty Bot/The student and the teacher/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/Simple Chatty Bot/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/Simple Chatty Bot/task/src/bot/SimpleBot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/Simple Chatty Bot/task/test/PersonalAssistantTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/course-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/course-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Simple Chatty Bot1/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Square/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Square/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Square/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Square/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Square/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Square/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Square/src/main/java/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Square/src/main/java/square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/build/classes/java/main/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/build/classes/java/main/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/build/classes/java/test/Tester.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/build/reports/tests/test/classes/Tester.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/build/reports/tests/test/css/base-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/build/reports/tests/test/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/build/reports/tests/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/build/reports/tests/test/js/report.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/build/reports/tests/test/packages/default-package.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/build/test-results/test/TEST-Tester.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/src/main/java/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StringCalulator/src/test/java/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../animalsPart1/src/main/java/animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../animalsPart1/src/main/java/cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../animalsPart1/src/main/java/dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../animalsPart1/src/main/java/home.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../animalsPart1/src/main/java/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../checkerPass/.idea/checkerPass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evenOrOdd/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evenOrOdd/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evenOrOdd/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evenOrOdd/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evenOrOdd/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evenOrOdd/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../evenOrOdd/src/main/java/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello/src/main/java/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../junitdemo/.idea/junitdemo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/.gradle/6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../schema.sql/src/main/java/schema/sql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springBoot/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springboot/src/main/java/hello.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bRmAvvUhJEHIXMmfaPe96yzysj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="205792d0-8d93-41c5-845a-71f7f5849f2f" name="Default Changelist" comment="" />
+      <created>1588603140104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588603140104</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="282" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588764032127">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="282" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1366.741@0.27.1366.741" timestamp="1588764032127" />
+    <state x="724" y="251" width="330" height="250" key="DBNavigator.ConnectionAuthenticationDialog" timestamp="1588692806072">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="724" y="251" width="330" height="250" key="DBNavigator.ConnectionAuthenticationDialog/0.27.1366.741@0.27.1366.741" timestamp="1588692806072" />
+    <state x="167" y="27" width="924" height="684" key="DBNavigator.ProjectSettingsDialog" timestamp="1588693171527">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="167" y="27" width="924" height="684" key="DBNavigator.ProjectSettingsDialog/0.27.1366.741@0.27.1366.741" timestamp="1588693171527" />
+    <state x="100" y="125" width="1156" height="543" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1588763606012">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="100" y="125" width="1156" height="543" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.27.1366.741@0.27.1366.741" timestamp="1588763606012" />
+    <state x="100" y="125" width="1166" height="543" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1588763606012">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="100" y="125" width="1166" height="543" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.27.1366.741@0.27.1366.741" timestamp="1588763606012" />
+    <state x="297" y="88" width="762" height="616" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588763257199">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="297" y="88" width="762" height="616" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1366.741@0.27.1366.741" timestamp="1588763257199" />
+    <state x="347" y="175" key="run.anything.popup" timestamp="1588764345167">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="175" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1588764345167" />
+  </component>
+</project>
